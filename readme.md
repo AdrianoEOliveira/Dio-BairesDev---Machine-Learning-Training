@@ -29,56 +29,120 @@
       <td>01</td>
       <td>📁 Treinamento de Redes Neurais com Transfer Learning</td>
       <td align="center">
-        <a href="./transferLearning">
-           <img 
-              align="center" 
-              alt="Material de Apoio" 
-              src="https://img.shields.io/badge/Abrir%20transferLearning-E94D5F?style=for-the-badge"
-            >
+        <a href="./projeto1" target="_blank">
+          <img 
+            align="center" 
+            alt="Material de Apoio" 
+            src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
+          >
         </a>
       </td>
     </tr>
     <tr>
       <td>02</td>
-      <td>📁 Web Apis com arquieturas Limpas</td>
+      <td>📁 Redução de Dimensionalidade em Imagens para Redes Neurais</td>
       <td align="center">
-        <a href="">
-           <img 
+        <a href="./projeto2" target="_blank">
+          <img 
             align="center" 
             alt="Material de Apoio" 
             src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
-            >
+          >
         </a>
       </td>
     </tr>
     <tr>
       <td>03</td>
-      <td>📁 Frontends inteligentes</td>
+      <td>📁 Cálculo de Métricas de Avaliação de Aprendizado</td>
       <td align="center">
-        <a href="">
-           <img 
+        <a href="./projeto3" target="_blank">
+          <img 
             align="center" 
             alt="Material de Apoio" 
             src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
-            >
+          >
         </a>
       </td>    
     </tr>
     <tr>
       <td>04</td>
-      <td>📁 Deploy em Cloud</td>
+      <td>📁 Criação de Uma Base de Dados e Treinamento da Rede YOLO</td>
       <td align="center">
-        <a href="">
-           <img 
+        <a href="./projeto4" target="_blank">
+          <img 
             align="center" 
             alt="Material de Apoio" 
             src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
-            >
+          >
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>📁 Criando um Sistema de Reconhecimento Facial do Zero</td>
+      <td align="center">
+        <a href="./projeto5" target="_blank">
+          <img 
+            align="center" 
+            alt="Material de Apoio" 
+            src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
+          >
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>📁 Criando um Sistema de Recomendação por Imagens Digitais</td>
+      <td align="center">
+        <a href="./projeto6" target="_blank">
+          <img 
+            align="center" 
+            alt="Material de Apoio" 
+            src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
+          >
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>📁 Criando um sistema de assistência virtual do zero</td>
+      <td align="center">
+        <a href="./projeto7" target="_blank">
+          <img 
+            align="center" 
+            alt="Material de Apoio" 
+            src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
+          >
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>08</td>
+      <td>📁 Criando um Agente para Detecção de Vulnerabilidades em Arquiteturas</td>
+      <td align="center">
+        <a href="./projeto8" target="_blank">
+          <img 
+            align="center" 
+            alt="Material de Apoio" 
+            src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
+          >
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>09</td>
+      <td>📁 Gerando Testes Unitários com LangChain e Azure ChatGPT</td>
+      <td align="center">
+        <a href="./projeto9" target="_blank">
+          <img 
+            align="center" 
+            alt="Material de Apoio" 
+            src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
+          >
         </a>
       </td>    
     </tr>
   </tbody>
-  <tfoot></tfoot>
 </table>
 </div>
 
@@ -97,5 +161,4 @@
     <img align="center" src="./.github/assets/footer.png" alt="banner"/>
   </a>
 </p>
-
 <!--END_SECTION:footer-->
