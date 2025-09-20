@@ -34,7 +34,6 @@
               align="center" 
               alt="Material de Apoio" 
               src="https://img.shields.io/badge/Abrir%20transferLearning-E94D5F?style=for-the-badge"
-
             >
         </a>
       </td>
