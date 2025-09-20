@@ -118,7 +118,7 @@
     </tr>
     <tr>
       <td>08</td>
-      <td>📁 Criando um Agente para Detecção de Vulnerabilidades em Arquiteturas</td>
+      <td>📁 Criando um Agente para Detecção de Vulnerabilidades em Arquiteturas com Google Gemini</td>
       <td align="center">
         <a href="./projeto8" target="_blank">
           <img 
@@ -131,7 +131,7 @@
     </tr>
     <tr>
       <td>09</td>
-      <td>📁 Gerando Testes Unitários com google gemini</td>
+      <td>📁 Gerando Testes Unitários com Google Gemini</td>
       <td align="center">
         <a href="./projeto9" target="_blank">
           <img 
