@@ -1,6 +1,6 @@
 # Sistema de Reconhecimento Facial  
 
-Este projeto implementa um sistema de reconhecimento facial utilizando o framework YOLOv8 e redes neurais com TensorFlow. O objetivo é detectar e classificar rostos em imagens, utilizando o dataset **LFW (Labeled Faces in the Wild)**.  
+Este projeto implementa um sistema de reconhecimento facial utilizando o framework YOLOv8 e redes neurais com TensorFlow. O objetivo é detectar e classificar rostos em imagens, utilizando o dataset **LFW (Labeled Faces in the Wild)**, considerando apenas indivíduos com 10 ou mais imagens de referência, garantindo maior consistência nos resultados.  
 
 ## Etapas do Projeto  
 
