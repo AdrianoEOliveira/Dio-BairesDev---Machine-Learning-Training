@@ -26,3 +26,8 @@ Este projeto utiliza um notebook google colaboratory para implementar um agente 
 
 Você pode acessar e executar o notebook diretamente no Google Colaboratory através do link abaixo:
 [Notebook no Google Colaboratory](https://colab.research.google.com/drive/17ZiDjRxUB44jMdkJWF8wpoaVQ2UR_le1)  
+
+### Fonte da Imagem para testes
+A imagem utilizada neste projeto foi retirada da documentação oficial da Microsoft. Você pode acessá-la através do link abaixo:
+
+[Arquitetura de Aplicativos Web - Microsoft Learn](https://learn.microsoft.com/pt-br/azure/architecture/web-apps/app-service/architectures/basic-web-app)
