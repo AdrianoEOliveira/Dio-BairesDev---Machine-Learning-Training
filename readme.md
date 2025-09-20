@@ -131,7 +131,7 @@
     </tr>
     <tr>
       <td>09</td>
-      <td>📁 Gerando Testes Unitários com LangChain e Azure ChatGPT</td>
+      <td>📁 Gerando Testes Unitários com google gemini</td>
       <td align="center">
         <a href="./projeto9" target="_blank">
           <img 
