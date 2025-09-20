@@ -29,7 +29,7 @@
       <td>01</td>
       <td>📁 Treinamento de Redes Neurais com Transfer Learning</td>
       <td align="center">
-        <a href="">
+        <a href="./transferLearning">
            <img 
               align="center" 
               alt="Material de Apoio" 
