@@ -1,6 +1,6 @@
 # Projeto: Sistema de Assistência Virtual do Zero
 
-Este projeto implementa um sistema de assistência virtual utilizando Python. O assistente é capaz de realizar tarefas como reconhecimento de voz, síntese de fala, pesquisa na Wikipédia, e geração de links para YouTube e Google Maps. O código foi desenvolvido em um ambiente Jupyter Notebook.
+Este projeto implementa um sistema de assistência virtual utilizando Python. O assistente é capaz de realizar tarefas como reconhecimento de voz, síntese de fala, pesquisa na Wikipédia, e geração de links para YouTube e Google Maps. O código foi desenvolvido em um ambiente google colaboratory.
 
 ## Funcionalidades
 
